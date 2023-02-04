@@ -6,3 +6,7 @@
 * metody
 * typy danych
 * instrukcje sterujące
+
+* zrobic zadanie 3 !
+* zrobic 7D !!
+* zadanie 9
